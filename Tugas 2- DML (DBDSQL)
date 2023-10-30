@@ -1,6 +1,6 @@
-create database akademik;
+create database sistem_akademik;
 
-use akademik;
+use sistem_akademik;
 
 create table fakultas (
     id_fakultas smallint primary key,
