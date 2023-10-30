@@ -82,8 +82,8 @@ select * from seleksi_masuk;
 select * from mahasiswa;
 
 update mahasiswa
-set nama = 'Putri Ayu Andini', angkatan = 2022
-where nim = '225150600111017';
+set nama = 'Rahma Nabila', angkatan = 2022
+where nim = '225150601111012';
 
 delete from mahasiswa
 where nim = '155150401';
